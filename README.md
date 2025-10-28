@@ -1,5 +1,5 @@
 # Sleak
-Sleak is a Python UDP-based network audio protocol designed for streaming over LAN. 
+Sleak is a Python UDP-based network audio program designed for streaming over LAN. 
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![plogo](https://img.shields.io/badge/Python-3.10-blue)
