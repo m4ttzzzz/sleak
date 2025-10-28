@@ -13,7 +13,7 @@ Sleak is a Python UDP-based network audio protocol designed for streaming over L
 - Fast by default
 
 # Implementing the protocol
-Your server (or client) must understand the commands that is send by the connected device. The commands and their usage is in the Wiki.
+Still haven't made the documentation, sorry T_T
 
 # Using the Services
 `HandshakeService` is cross-platform, but `UDPSender` is for Windows only.
